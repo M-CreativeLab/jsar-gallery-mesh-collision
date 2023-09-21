@@ -1,6 +1,8 @@
-# template-for-jsar-widget
+# jsar-gallery-mesh-collision
 
-The template repository for creating the JSAR Widget.
+See https://playground.babylonjs.com/#KQV9SA.
+
+This is a re-implementation for the above playground, which is originally written in Babylon.js.
 
 ## How to use
 
@@ -11,7 +13,7 @@ Create your GitHub repository via [this link](https://github.com/new?template_na
 Type the following URL in JSAR runtime:
 
 ```sh
-https://cdn.jsdelivr.net/gh/M-CreativeLab/template-for-jsar-widget@main/main.xsml
+https://cdn.jsdelivr.net/gh/M-CreativeLab/jsar-gallery-mesh-collision@main/main.xsml
 ```
 
 ## License
